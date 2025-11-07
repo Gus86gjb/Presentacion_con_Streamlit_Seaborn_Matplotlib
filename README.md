@@ -1,5 +1,7 @@
 # 📊 Análisis de Datos con Streamlit, Seaborn y Matplotlib
 
+https://tipdashboard-asdtewdvt8znvxuw5nbyxz.streamlit.app/
+
 ## 🎯 Objetivo
 Este proyecto demuestra cómo integrar herramientas de análisis de datos y visualización para crear aplicaciones interactivas que permitan extraer **insights valiosos** de conjuntos de datos.  
 Está diseñado como ejemplo para enseñar:
