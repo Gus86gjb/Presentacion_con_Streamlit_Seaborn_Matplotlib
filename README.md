@@ -48,13 +48,13 @@ Presentacion_con_Streamlit_Seaborn_Matplotlib
 
 ## 📊 Estructura del Análisis
 
-**Sección 1: Análisis Demográfico**
+- **Sección 1: Análisis Demográfico**
 
 Distribución de clientes por género
 
 Patrones temporales (día/hora)
 
-**Sección 2: Análisis Financiero**
+- **Sección 2: Análisis Financiero**
 
 Relación factura-propina
 
@@ -62,13 +62,13 @@ Segmentación por montos
 
 Heatmaps de porcentajes
 
-**Sección 3: Comportamiento**
+- **Sección 3: Comportamiento**
 
 Distribución de porcentajes de propina
 
 Comparativas entre categorías
 
-**Sección 4: Insights Accionables**
+- **Sección 4: Insights Accionables**
 
 Hallazgos clave basados en datos
 
